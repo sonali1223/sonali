@@ -1,6 +1,6 @@
 <html>
-<h1>Git Here.....</h1>
+<h1>Git</h1>
 <body>
-<h2>this is my branch pune on sonali repository......</h2>
+<h2>this is my branch pune on sonali repository</h2>
 </body>
 </html>
